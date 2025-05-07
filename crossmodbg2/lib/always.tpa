@@ -129,6 +129,7 @@ COPY - ~weidu.log~ ~weidu.log~ // use - so even if we do accidentally change som
     PATCH_MATCH MATCH2 WITH
       1 BEGIN SPRINT amber_lang ~german~ END
       2 BEGIN SPRINT amber_lang ~spanish~ END
+      3 BEGIN SPRINT amber_lang ~schinese~ END
       DEFAULT 
     END  
   END ~%MATCH1%%MATCH2%~    
