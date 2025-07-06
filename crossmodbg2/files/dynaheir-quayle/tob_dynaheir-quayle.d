@@ -1,0 +1,13 @@
+CHAIN IF ~InParty("QUAYLE")
+See("QUAYLE")
+!StateCheck("QUAYLE",CD_STATE_NOTVALID)
+!StateCheck("L#DYN",CD_STATE_NOTVALID)
+CombatCounter(0)
+Global("G#XB.QuayleL#DYN25","GLOBAL",0)~ THEN L#DYN25B L#DYNG#XB.Quayle1
+@0
+DO ~SetGlobal("G#XB.QuayleL#DYN25","GLOBAL",1)~
+==L#DYN25B @1
+==1xQU25B @2
+==L#DYN25B @3
+EXIT
+

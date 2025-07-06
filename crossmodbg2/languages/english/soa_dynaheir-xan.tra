@@ -1,0 +1,9 @@
+@0    = ~*sigh* It looks like you and fate are no longer in a good relationship, Dynaheir. At least not as good as you used to be.~
+@1    = ~Art thou suggesting that I was on good terms with fate before, Xan?~
+@2    = ~Even when matters were rough; even when you were in a pit filled with bodies of those murdered by the gnolls, there were those like <CHARNAME> to help you.~
+@3    = ~This time, however, <CHARNAME>'s power to help you seems more limited. None of us can bring Minsc. Or answer all those questions that remain unresolved.~
+@4    = ~Mayhap, Xan, but I do not expect any of thee to provide me with these answers. 'Tis enough that I do not have to look for them alone.~
+@5    = ~Ah. Well, then—in the worst case, we'll wander in the fog together. It's still better than irreversible death.~
+
+// replaces existing xan line
+@6    = ~<CHARNAME>, I will beg for your forgiveness endlessly, if it will help. But will it? What is done is done. Worse, had I not departed for Evereska, I would probably be dead, like some of other people we had worked with.~

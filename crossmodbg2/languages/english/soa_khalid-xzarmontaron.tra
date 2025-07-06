@@ -1,0 +1,42 @@
+@0    = ~Harper, Harper, little Harper,
+Let us make our blades sharper,
+And indulge you with a murder—~
+@1    = ~N-none of this is funny, Zhentarim! Aren't you t-tired with your antagonizing t-taunts? Unless these aren't j-just taunts and you t-truly want t-to get rid of me. P-permamently.~
+@2    = ~You can be so annoying, Harper. Even without your wife. She was the real pest, but you—you are just worthless. Annoying with your worthlessness!~
+@3    = ~It's n-not true. <CHARNAME> needs me, and the fact I am here c-c-confirms it. What t-troubles me is that you're also p-part of this group, too, and you b-bring only madness to the table.~
+@4    = ~Perhaps <PRO_HESHE> needs me too! And a little madness! But this is ridiculous, with you around, other Harpers will gather and—you are all like rats! Or cockroaches. Or a yeast infection! The longer you're here, the more trouble are going to pop out of nowhere! And you will only What's more, you'll only be moaning about what's good and right, while you're around. What nonsense! Troublesome nonsense!~
+@5    = ~Me?! Troublesome?! This is j-just—you the the threat here! Not m-me!~
+@6    = ~Actually, I be th' threat.~
+@7    = ~Of c-course you are. You always are. Both of you.~
+@8    = ~I believe that may be the right moment to "m-m-murder" someone, before more of you come and try to turn me into a bird or just try to murder me! Let's solve this Montaron-style. Know, Harper, that it will hurt you more than it will hurt me—it wouldn't never work out! We need to break up. And break your neck.~
+@9    = ~Khalid, I think you should leave. For your own good.~
+@10   = ~You're pushing it too far, Xzar. Calm down. You're not going to hurt Khalid.~
+@11   = ~You w-want me to leave?!~
+@12   = ~You heard <CHARNAME>. Shoo! Before I turn your bones into toothpicks!~
+@13   = ~F-fine. Perhaps it's what best for me. B-but surely not for you, <CHARNAME>.~
+@14   = ~So—you're one of them, hmm? I knew it! I truly knew it!~
+@15   = ~Ye an' yer goodie-good friends are gonna shite on our work, tellin' us wha' to do, or 'ow we cannot kill those on our way.~
+@16   = ~They always be like tha'! Friggin' Harpers, they just come an' pretend like better than anyone else, argh!~
+@17   = ~No, Harpers d-do not see their own p-people as better, but—~
+@18   = ~—but ye friggin' do.~
+@19   = ~I c-cannot understand why you are even here, I don't believe that you truly want t-to help <CHARNAME>.~
+@20   = ~There are many things Harpers just cannot understand.~
+@21   = ~This is exactly what we n-need. For a madman to join the c-conversation.~
+@22   = ~Don't m-make this harder than it already is. We already lost so m-much!~
+@23   = ~Like ye wifey? Har! Good riddance!~
+@24   = ~Take those words b-back!~
+@25   = ~Enough! Stow it, Khalid.~
+@26   = ~Montaron, step back and apologize to Khalid.~
+@27   = ~You want m-me to stow it?! You're on their side...?~
+@28   = ~This isn't going t-to work, <CHARNAME>.~
+@29   = ~Friggin' sure it won't.~
+@30   = ~I hope those two won't cause your death, <CHARNAME>, b-but I need to go. Farewell.~
+@31   = ~O'er me dead body.~
+//When Xzar is dead, a head string over Khalid: "It had t-to end this way... I am s-sorry you had t-to witness this, <CHARNAME>."
+//When Khalid leaves, a head string over Xzar: "Ta ta, fool!"
+@32 = ~It had t-to end this way... I am s-sorry you had t-to witness this, <CHARNAME>.~
+@33 = ~Ta ta, fool!~
+//When Montaron is dead, a head string over Khalid: "I am s-sorry you had t-to witness this, <CHARNAME>, b-but... it's b-better that way."
+//When Khalid leaves, a head string over Montaron: "Go an' cry yer eyes out, fool! Har har har!"
+@34 = ~I am s-sorry you had t-to witness this, <CHARNAME>, b-but... it's b-better that way.~
+@35 = ~Go an' cry yer eyes out, fool! Har har har!~

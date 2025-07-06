@@ -21,4 +21,7 @@
 @12 = ~...One for our fallen Harper friends. And Dynaheir, a proud witch of Rashemen. And others.~
 
 
-
+// for khalid_xan.tpa if dynaheira is also installed - 13 for 6, 14 for 7, 15 for 12
+@13  = ~(sigh) Do you remember our dead friends? Some wounds never heal...~
+@14 = ~I am. He paid for what he did to me, Imoen and some of our other friends.~
+@15 = ~...One for our Harper friend. And for the adventurers from Rashemen, Minsc and Dynaheir who suffered so much. And others.~

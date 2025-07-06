@@ -1,0 +1,9 @@
+IF
+  Global("G#BAN.MONT.KHA.CONFLICT","GLOBAL",2)
+  !InParty("l#kha")
+  Global("G#BAN.MONT.KHA.final","LOCALS",0)
+THEN 
+  RESPONSE #100
+    SetGlobal("G#BAN.MONT.KHA.final","LOCALS",1)
+    DisplayStringHead(Myself,@35)
+END 

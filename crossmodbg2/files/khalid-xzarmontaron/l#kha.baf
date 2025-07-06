@@ -1,0 +1,19 @@
+IF
+  Global("G#BAN.XZAR.KHA.CONFLICT","GLOBAL",3)
+  Dead("l#xza")
+  Global("G#BAN.XZAR.KHA.final","LOCALS",0)
+THEN 
+  RESPONSE #100
+    SetGlobal("G#BAN.XZAR.KHA.final","LOCALS",1)
+    DisplayStringHead(Myself,@32)
+END 
+
+IF
+  Global("G#BAN.MONT.KHA.CONFLICT","GLOBAL",3)
+  Dead("l#mon")
+  Global("G#BAN.MONT.KHA.final","LOCALS",0)
+THEN 
+  RESPONSE #100
+    SetGlobal("G#BAN.MONT.KHA.final","LOCALS",1)
+    DisplayStringHead(Myself,@34)
+END 

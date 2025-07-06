@@ -65,7 +65,15 @@ ACTION_IF game_is_bg2ee OR game_is_eet BEGIN
     tob_xzele_will tob_xzele_yoshimo-remorse tob_xzele_yvette 
     // added in v25
     soa_faldorn-imp_wilson soa_faldorn-imp_beaurin-legacy soa_faldorn-imp_beaurin-legacy-hidden
-
+    // added in v26
+    soa_dynaheir-ajantis soa_dynaheir-branwen soa_dynaheir-coran soa_dynaheir-dvaradime soa_dynaheir-eddard soa_dynaheir-faldorn soa_dynaheir-fyalvara 
+    soa_dynaheir-hephernaan soa_dynaheir-khalid soa_dynaheir-lhannd soa_dynaheir-montaron soa_dynaheir-quayle soa_dynaheir-skiecost soa_dynaheir-tiax 
+    soa_dynaheir-xan soa_dynaheir-xzar soa_dynaheir-xzele soa_dynaheir-yeslick soa_montaron-ajantis soa_xzar-ajantis soa_xzar-faldorn soa_xzar-skiecostonesoul 
+    soa_xzar-tiax soa_xzar-xan soa_xzar-xzele tob_dynaheir-ajantis tob_dynaheir-branwen tob_dynaheir-coran tob_dynaheir-dvaradime tob_dynaheir-eddard 
+    tob_dynaheir-faldorn tob_dynaheir-fyalvara tob_dynaheir-hephernaan tob_dynaheir-juniper tob_dynaheir-khalid tob_dynaheir-lhannd tob_dynaheir-montaron 
+    tob_dynaheir-quayle tob_dynaheir-skiecost tob_dynaheir-xzar tob_dynaheir-xzele tob_dynaheir-yeslick tob_montaron-ajantis tob_xzar-ajantis tob_xzar-faldorn 
+    tob_xzar-skiecostonesoul tob_xzar-xzele soa_khalid-xzarmontaron
+    
   END
   LAF HANDLE_CHARSETS INT_VAR infer_charsets = 1 
                       STR_VAR default_language = ~english~ tra_path = EVAL ~%MOD_FOLDER%/languages~ out_path = EVAL ~weidu_external/%MOD_FOLDER%/languages~ noconvert_array = cdnoconvert  END

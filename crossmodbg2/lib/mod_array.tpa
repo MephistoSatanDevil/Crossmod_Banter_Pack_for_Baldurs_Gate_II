@@ -35,6 +35,7 @@ ACTION_DEFINE_ASSOCIATIVE_ARRAY ~mod_array~ BEGIN
   ~de’Arnise Romance~, ~jcompton, Kulyok~, ~nalia-ppg~, ~~, ~pgnalbeg.cre~, ~~, ~~, ~~, ~nalia~, ~nalia25~ => ~-1~ // Adds romance conflict scripting to Nalia ToB, despite not having ToB content
   ~Deekin~, ~Smiling Imp~, ~deekin~, ~~, ~bdeekin.dlg~, ~~, ~~, ~~, ~~, ~~ => ~-1~ // 
   ~Dvaradime~, ~Lava~, ~dvaradime~, ~~, ~l#dvab.dlg~, ~~, ~l#dva25b.dlg~, ~~, ~~, ~~ => ~-1~ // 
+  ~Dynaheir~, ~Lava~, ~dynaheir~, ~~, ~l#dynb.dlg~, ~~, ~l#dyn25b.dlg~, ~~, ~~, ~~ => ~-1~ // 
   ~Eddard~, ~Lava~, ~eddard~, ~~, ~l#2edb.dlg~, ~~, ~l#2ed25b.dlg~, ~~, ~~, ~~ => ~-1~ // 
   ~Edwin Romance~, ~Laufey~, ~edwinromance~, ~~, ~lichring.itm~, ~~, ~~, ~~, ~~, ~~ => ~-1~ // 
   ~Eilistaree's Song ~, ~Lava~, ~eilistraee~, ~~, ~esxmh.dlg ~, ~~, ~~, ~~, ~~, ~~ => ~-1~ // 
@@ -88,7 +89,7 @@ ACTION_DEFINE_ASSOCIATIVE_ARRAY ~mod_array~ BEGIN
   ~Safana~, ~Smiling Imp~, ~safana~, ~~, ~b7xsafa.dlg~, ~~, ~~, ~~, ~~, ~~ => ~-1~ // 
   ~Sarah~, ~theacefes~, ~sarah~, ~~, ~k#sarah.dlg~, ~~, ~~, ~~, ~k#sarah~, ~k#sara25~ => ~-1~ // 
   ~Sellswords~, ~Kulyok~, ~sellswords~, ~~, ~o#llkimm.dlg ~, ~~, ~~, ~~, ~~, ~~ => ~-1~ // 
-  ~Shar-Teel~, ~Smiling Imp~, ~sharteel~, ~~, ~b7xshar.dlg~, ~~, ~B7Xsh25~, ~~, ~~, ~~ => ~-1~ // 
+  ~Shar-Teel~, ~Smiling Imp~, ~sharteel~, ~~, ~b7xshar.dlg~, ~~, ~b7xsh25.dlg~, ~~, ~~, ~~ => ~-1~ // 
   ~Silver Star~, ~Davide Carta and Seifer~, ~silverstar~, ~~, ~bsilver.dlg~, ~~, ~~, ~~, ~~, ~~ => ~-1~ // 
   ~Sirene~, ~The Artisan~, ~sirene~, ~~, ~bc0siren.dlg~, ~~, ~~, ~~, ~~, ~~ => ~-1~ // 
   ~Skie~, ~Lava~, ~skie~, ~~, ~1xskieb.dlg~, ~~, ~1xski25b.dlg~, ~~, ~~, ~~ => ~-1~ // 
@@ -118,6 +119,7 @@ ACTION_DEFINE_ASSOCIATIVE_ARRAY ~mod_array~ BEGIN
   ~Xan~, ~Kulyok~, ~xan~, ~~, ~o#xan.dlg~, ~~, ~o#xan25.dlg~, ~~, ~o#xans~, ~o#xan25s~ => ~-1~ // 
   ~Xulaye~, ~K'aeloree, Riviera, Bookwyrme~, ~xulaye~, ~~, ~blk#xul.dlg~, ~~, ~~, ~~, ~~, ~~ => ~-1~ // 
   ~Xzar~, ~Smiling Imp~, ~xzar~, ~~, ~7xxzarb.dlg~, ~~, ~~, ~~, ~~, ~~ => ~-1~ // 
+  ~Xzar and Montaron~, ~Lava~, ~xzarmontaron~, ~~, ~l#xzab.dlg~, ~~, ~l#xza25b.dlg~, ~~, ~~, ~~ => ~-1~ // 
   ~Xzele~, ~Lava~, ~xzele~, ~~, ~l#xzeb.dlg~, ~~, ~l#xze25b.dlg~, ~~, ~~, ~~ => ~-1~ // 
   ~Yasraena~, ~Sillara~, ~yasraena~, ~~, ~byasraen.dlg~, ~~, ~byasra25.dlg~, ~~, ~~, ~~ => ~-1~ // 
   ~Yeslick~, ~Smiling Imp~, ~yeslick~, ~~, ~b7xyes.dlg~, ~~, ~~, ~~, ~~, ~~ => ~-1~ // 

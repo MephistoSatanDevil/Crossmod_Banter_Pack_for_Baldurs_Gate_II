@@ -17,7 +17,12 @@ END
 COPY ~./inline/lang.tpa~ ~weidu_external/crossmodbg2/lang.tpa~ EVALUATE_BUFFER
 REINCLUDE ~weidu_external/crossmodbg2/lang.tpa~ 
 
-STRING_SET_EVALUATE strref1 @15
 STRING_SET_EVALUATE strref2 @16
-STRING_SET_EVALUATE strref3 @17
 STRING_SET_EVALUATE strref4 @18
+ACTION_IF FILE_EXISTS_IN_GAME ~l#dynb.dlg~ BEGIN // if dynaheir is also installed
+  STRING_SET_EVALUATE strref1 @19
+  STRING_SET_EVALUATE strref3 @20
+END ELSE BEGIN
+  STRING_SET_EVALUATE strref1 @15
+  STRING_SET_EVALUATE strref3 @17
+END

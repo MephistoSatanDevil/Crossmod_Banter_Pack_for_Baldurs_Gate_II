@@ -27,5 +27,9 @@
 @17 = ~Irenicus kept us imprisoned beneath Athkatla in a tunnel system. We were tortured... Dynaheir died during our abduction, and one of our Harper friends was killed at some point after. We freed ourselves, but after we started fighting him, he and Imoen were captured by the Cowled Wizards.~
 @18 = ~Some of our friends are dead... and he tortured me. My search for this Irenicus is very personal, and I will repay him!~
 
+// for khalid_ajantis.tpa if dynaheir is also installed - 19 replaces 15, 20 replaces 17
+@19 = ~Irenicus had us imprisoned in a tunnel system beneath Athkatla. We were tortured... Misfortune befell our Rashemi friend, and  we found one of our Harper friends dead soon after that. We freed ourselves, but after we caught up with him again, he overpowered me and stole my divine soul.~
+@20 = ~Irenicus kept us imprisoned beneath Athkatla in a tunnel system. We were tortured... Misfortune befell our Rashemi friend, and  we found one of our Harper friends dead soon after that. We freed ourselves, but after we started fighting him, he and Imoen were captured by the Cowled Wizards.~
+
 
 

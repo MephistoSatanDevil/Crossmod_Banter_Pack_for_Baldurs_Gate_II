@@ -1,0 +1,3 @@
+EXTEND_BOTTOM ~l#kha.baf~ ~crossmodbg2/khalid-xzarmontaron/l#kha.baf~ // khalid's reaction to killing montaron or xzar
+EXTEND_BOTTOM ~l#mon.baf~ ~crossmodbg2/khalid-xzarmontaron/l#mon.baf~ // montaron's reaction to khalid leaving
+EXTEND_BOTTOM ~l#xza.baf~ ~crossmodbg2/khalid-xzarmontaron/l#xza.baf~ // xzar's reaction to khalid leaving
