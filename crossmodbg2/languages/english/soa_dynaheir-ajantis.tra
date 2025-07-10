@@ -1,3 +1,7 @@
+/////                                                  \\\\\
+///// THIS FILE SHOULD BE ENCODED AS UTF-8             \\\\\
+/////                                                  \\\\\
+
 @0    = ~Dynaheir, I heard about how Minsc was... taken from us. I am unsure I understand all the details, nor if we know exactly what happened to him, but one is clear: he saved you, just like he always swore to do.~
 @1    = ~Indeed, he saved me, thou art correct, Ajantis, but the fact there art still these details missing, and gaps to fill—it doth not make it feel just, nor right.~
 @2    = ~That is why I mentioned these details, and the unclarity of the whole situation, but I also know you and I can feel you are not going to leave it like that.~
@@ -8,5 +12,5 @@
 @7    = ~And I thank you for it. 'Tis a complex matter, Ajantis.~
 @8    = ~On one hand, 'twas his actions that caused it, but on the other hand—I cannot ignore that he did this to save me. 'Twas to bring me back, to free me of this odd machinery.~
 @9    = ~Minsc's actions—at least those I have witnessed—have always been rooted in bravery. His methods, while... unusual at times, have always stemmed from the right motives, and he would never let anything come between him and his witch.~
-@10   = ~'Tis true, thou art quite correct. Even though I would call it quite recless and irresponsible, to act without giving the situation a proper thought first, I also understand his motivation. Mhm.~
-@11   = ~I am sorry, Ajantis, but I do not want to discuss this further, not until I have more information. Thou dost understand it, though, I am rather sure of it. Thou knowst how confusing all of this is.~
+@10   = ~'Tis true, thou art quite correct. Even though I would call it quite reckless and irresponsible, to act without giving the situation a proper thought first, I also understand his motivation. Mhm.~
+@11   = ~I am sorry, Ajantis, but I do not want to discuss this further, not until I have more information. Thou dost understand it, though, I am rather sure of it. Thou knowest how confusing all of this is.~

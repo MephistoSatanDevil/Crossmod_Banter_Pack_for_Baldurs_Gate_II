@@ -1,6 +1,10 @@
-@0    = ~It's quite saddening, knowing how we all lost someone. <CHARNAME> lost Gorion. I lost my father. You lost Minsc, and even thoug he isn't dead, you won't be able to see him, from what I understood...~
+/////                                                  \\\\\
+///// THIS FILE SHOULD BE ENCODED AS UTF-8             \\\\\
+/////                                                  \\\\\
+
+@0    = ~It's quite saddening, knowing how we all lost someone. <CHARNAME> lost Gorion. I lost my father. You lost Minsc, and even though he isn't dead, you won't be able to see him, from what I understood...~
 @1    = ~Still, 'tis not the same. I would not include it on that list, Lhannd.~
-@2    = ~Right. Now I realized it could have been seen as somewhat inapropriate.~
+@2    = ~Right. Now I realized it could have been seen as somewhat inappropriate.~
 @3    = ~'Twas, yes, but—I suppose thou intentions were not exactly ill.~
 @4    = ~We may have lost our kin. Our friends. Family. But we saved quite a number of people, we did. I am sure the dead and the missing would be proud of us. Thy father would be proud of thee, Lhannd.~
 @5    = ~Mmm. Thank you. I suppose he would, yes.~

@@ -1,12 +1,16 @@
+/////                                                  \\\\\
+///// THIS FILE SHOULD BE ENCODED AS UTF-8             \\\\\
+/////                                                  \\\\\
+
 @0    = ~I hope I am doing good as role of your bodyguard, wychlaran.~
 @1    = ~Yes, I—I suppose thou art right. Thou art a fine fighter, Fyalvara. We both know it.~
 @2    = ~Mhm. But—you know I haven't said that to remind you of Minsc. I never meant to make you feel as he was replaceable, but I just realized that you might have taken it that way.~
-@3    = ~No, I mean—I already my fate and his shall no longer cross. And thou art doing all thou canst to make sure I stay safe. And I am grateful.~
+@3    = ~No, I mean—I already accept my fate and his shall no longer cross. And thou art doing all thou canst to make sure I stay safe. And I am grateful.~
 @4    = ~Mhm. Maybe yours and his fate are not supposed to cross, but that doesn't mean you cannot treasure the memories you have of him.~
-@5    = ~I am sure he remembers you, Dynaher. His wychlaran. And I know you told me he was an... unique person, with a inimitable personality, but I am sure he still has you engraved in his heart. Do you think it can be true? You know him better than I do.~
+@5    = ~I am sure he remembers you, Dynaheir. His wychlaran. And I know you told me he was an... unique person, with an inimitable personality, but I am sure he still has you engraved in his heart. Do you think it can be true? You know him better than I do.~
 @6    = ~Yes. I believe thou mightst be right, Fyalvara.~
 @7    = ~I'm wondering if once we may meet again, back in Rashemen.~
-@8    = ~Mayhap. 'Tis hard to say, Fyalvara, but with a stroke of luck, and if fate shall finaly have some mercy over us, I would not rule that out.~
+@8    = ~Mayhap. 'Tis hard to say, Fyalvara, but with a stroke of luck, and if fate shall finally have some mercy over us, I would not rule that out.~
 @9    = ~I would gladly invite you to my place, let you drink my finest tea, and we could share tales: both new ones, and old ones. Mhm.~
 @10   = ~That soundeth like a visit I would truly enjoy.~
 @11   = ~Let us continue, with a hope that is something that indeed shall happen, my friend.~
