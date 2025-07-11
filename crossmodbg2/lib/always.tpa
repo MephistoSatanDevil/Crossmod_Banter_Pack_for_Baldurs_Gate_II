@@ -66,13 +66,13 @@ ACTION_IF game_is_bg2ee OR game_is_eet BEGIN
     // added in v25
     soa_faldorn-imp_wilson soa_faldorn-imp_beaurin-legacy soa_faldorn-imp_beaurin-legacy-hidden
     // added in v26
-    soa_dynaheir-ajantis soa_dynaheir-branwen soa_dynaheir-coran soa_dynaheir-dvaradime soa_dynaheir-eddard soa_dynaheir-faldorn soa_dynaheir-fyalvara 
-    soa_dynaheir-hephernaan soa_dynaheir-khalid soa_dynaheir-lhannd soa_dynaheir-quayle soa_dynaheir-skiecost soa_dynaheir-tiax soa_dynaheir-xan soa_dynaheir-xzarmontaron 
-    soa_dynaheir-xzele soa_dynaheir-yeslick soa_xzarmontaron-ajantis soa_xzarmontaron-faldorn soa_xzarmontaron-skiecostonesoul soa_xzarmontaron-tiax soa_xzarmontaron-xan 
-    soa_xzarmontaron-xzele tob_dynaheir-ajantis tob_dynaheir-branwen tob_dynaheir-coran tob_dynaheir-dvaradime tob_dynaheir-eddard tob_dynaheir-faldorn 
-    tob_dynaheir-fyalvara tob_dynaheir-hephernaan tob_dynaheir-juniper tob_dynaheir-khalid tob_dynaheir-lhannd tob_dynaheir-quayle tob_dynaheir-skiecost 
-    tob_dynaheir-xzarmontaron tob_dynaheir-xzele tob_dynaheir-yeslick tob_xzarmontaron-ajantis tob_xzarmontaron-faldorn tob_xzarmontaron-skiecostonesoul 
-    tob_xzarmontaron-xzele soa_khalid-xzarmontaron
+    soa_dynaheir_ajantis soa_dynaheir_branwen soa_dynaheir_coran soa_dynaheir_dvaradime soa_dynaheir_eddard soa_dynaheir_faldorn soa_dynaheir_fyalvara 
+    soa_dynaheir_hephernaan soa_dynaheir_khalid soa_dynaheir_lhannd soa_dynaheir_quayle soa_dynaheir_skiecost soa_dynaheir_tiax soa_dynaheir_xan soa_dynaheir_xzarmontaron 
+    soa_dynaheir_xzele soa_dynaheir_yeslick soa_xzarmontaron_ajantis soa_xzarmontaron_faldorn soa_xzarmontaron_skiecost soa_xzarmontaron_tiax soa_xzarmontaron_xan 
+    soa_xzarmontaron_xzele tob_dynaheir_ajantis tob_dynaheir_branwen tob_dynaheir_coran tob_dynaheir_dvaradime tob_dynaheir_eddard tob_dynaheir_faldorn 
+    tob_dynaheir_fyalvara tob_dynaheir_hephernaan tob_dynaheir_juniper tob_dynaheir_khalid tob_dynaheir_lhannd tob_dynaheir_quayle tob_dynaheir_skiecost 
+    tob_dynaheir_xzarmontaron tob_dynaheir_xzele tob_dynaheir_yeslick tob_xzarmontaron_ajantis tob_xzarmontaron_faldorn tob_xzarmontaron_skiecost 
+    tob_xzarmontaron_xzele soa_khalid_xzarmontaron
     
   END
   LAF HANDLE_CHARSETS INT_VAR infer_charsets = 1 
