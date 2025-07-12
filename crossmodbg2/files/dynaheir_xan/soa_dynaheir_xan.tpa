@@ -1,6 +1,6 @@
 // why the BS with inline files? the IN clause doesn't evaluate variables
 <<<<<<<<./inline/lang.tpa
-WITH_TRA ~Branwen/tra/%branwen_lang%/bo#xan.tra~ BEGIN
+WITH_TRA ~xan/%xan_lang%/bo#xan.tra~ BEGIN
   OUTER_SET strref1 = RESOLVE_STR_REF(@1080)
   /* <CHARNAME>, I will beg for your forgiveness endlessly, if it will help. But will it? What is done is done. Worse, had I not departed for Evereska, I would probably have taken poor Dynaheir's place. */
 END
