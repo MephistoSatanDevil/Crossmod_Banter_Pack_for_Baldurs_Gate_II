@@ -68,10 +68,10 @@ ACTION_IF game_is_bg2ee OR game_is_eet BEGIN
     // added in v26
     soa_dynaheir_ajantis soa_dynaheir_branwen soa_dynaheir_coran soa_dynaheir_dvaradime soa_dynaheir_eddard soa_dynaheir_faldorn soa_dynaheir_fyalvara 
     soa_dynaheir_hephernaan soa_dynaheir_khalid soa_dynaheir_lhannd soa_dynaheir_quayle soa_dynaheir_skiecost soa_dynaheir_tiax soa_dynaheir_xan soa_dynaheir_xzarmontaron 
-    soa_dynaheir_xzele soa_dynaheir_yeslick soa_xzarmontaron_ajantis soa_xzarmontaron_faldorn soa_xzarmontaron_skiecost soa_xzarmontaron_tiax soa_xzarmontaron_xan 
+    soa_dynaheir_xzele soa_dynaheir_yeslick-shs soa_xzarmontaron_ajantis soa_xzarmontaron_faldorn soa_xzarmontaron_skiecost soa_xzarmontaron_tiax soa_xzarmontaron_xan 
     soa_xzarmontaron_xzele tob_dynaheir_ajantis tob_dynaheir_branwen tob_dynaheir_coran tob_dynaheir_dvaradime tob_dynaheir_eddard tob_dynaheir_faldorn 
     tob_dynaheir_fyalvara tob_dynaheir_hephernaan tob_dynaheir_juniper tob_dynaheir_khalid tob_dynaheir_lhannd tob_dynaheir_quayle tob_dynaheir_skiecost 
-    tob_dynaheir_xzarmontaron tob_dynaheir_xzele tob_dynaheir_yeslick tob_xzarmontaron_ajantis tob_xzarmontaron_faldorn tob_xzarmontaron_skiecost 
+    tob_dynaheir_xzarmontaron tob_dynaheir_xzele tob_dynaheir_yeslick-shs tob_xzarmontaron_ajantis tob_xzarmontaron_faldorn tob_xzarmontaron_skiecost 
     tob_xzarmontaron_xzele soa_khalid_xzarmontaron
     
   END

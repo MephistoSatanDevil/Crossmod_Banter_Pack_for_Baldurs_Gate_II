@@ -122,7 +122,8 @@ ACTION_DEFINE_ASSOCIATIVE_ARRAY ~mod_array~ BEGIN
   ~Xzar and Montaron~, ~Lava~, ~xzarmontaron~, ~~, ~l#xzab.dlg~, ~~, ~l#xza25b.dlg~, ~~, ~~, ~~ => ~-1~ // 
   ~Xzele~, ~Lava~, ~xzele~, ~~, ~l#xzeb.dlg~, ~~, ~l#xze25b.dlg~, ~~, ~~, ~~ => ~-1~ // 
   ~Yasraena~, ~Sillara~, ~yasraena~, ~~, ~byasraen.dlg~, ~~, ~byasra25.dlg~, ~~, ~~, ~~ => ~-1~ // 
-  ~Yeslick~, ~Smiling Imp~, ~yeslick~, ~~, ~b7xyes.dlg~, ~~, ~~, ~~, ~~, ~~ => ~-1~ // 
+  ~Yeslick~, ~Pixel Kaiser, K'aeloree, Lava~, ~yeslick-shs~, ~~, ~blk#yes.dlg~, ~~, ~~, ~~, ~~, ~~ => ~-1~ // 
+  ~Yeslick~, ~Smiling Imp~, ~yeslick~, ~~, ~b7xyes.dlg~, ~~, ~blk#ye25.dlg~, ~~, ~~, ~~ => ~-1~ // 
   ~Yoshimo Romance~, ~Lava~, ~yoshimo-romance~, ~yoshimoromance/yoshimoromance.tp2~, ~~, ~0~, ~~, ~~, ~~, ~~ => ~-1~ // 
   ~Yoshimo’s Remorse~, ~jmaeq, Lava~, ~yoshimo-remorse~, ~~, ~~, ~~, ~yyosh25b.dlg~, ~~, ~~, ~~ => ~-1~ // 
   ~Yvette~, ~Lava~, ~yvette~, ~~, ~yxyveb.dlg~, ~~, ~yxyv25b.dlg~, ~~, ~~, ~~ => ~-1~ // 
